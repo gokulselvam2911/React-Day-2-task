@@ -3,6 +3,7 @@
 ## Overview
 
 This project is a simple React-based pricing plan page designed to dynamically render different pricing options for a product or service. The application leverages React components for functionality and Bootstrap for styling and layout, providing a responsive and modern design.
+Netlify deploy link https://neon-marshmallow-a67187.netlify.app/
 
 ## Features
 
