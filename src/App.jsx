@@ -74,7 +74,7 @@ const PricingCard = ({ plan }) => {
           </ul>
         </div>
         <div className="card-footer">
-          <button className="btn btn-primary">BUTTON</button>
+          <button className="btn btn-primary">SUBSCRIBE</button>
         </div>
       </div>
     </div>
